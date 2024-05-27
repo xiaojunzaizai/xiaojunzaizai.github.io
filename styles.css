@@ -1,5 +1,14 @@
-body {
+h1 {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
+}
+a {
+    cursor: pointer;
+    color: #1976d2;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.8;
 }
